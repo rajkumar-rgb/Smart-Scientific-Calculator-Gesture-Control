@@ -49,12 +49,11 @@ CvZone
 
 ## Project Structure
 Smart-Scientific-Calculator-Gesture-Control/
-|
-|-- main.py                  Main execution file
-|-- virtual_calculator.py    Calculator operations logic
-|-- canvas.py                Virtual canvas and erase functionality
-|-- requirements.txt         Project dependencies
-|-- README.md                Project documentation
+   --> main.py                  
+   --> virtual_calculator.py    
+   --> canvas.py                
+   --> requirements.txt         
+   --> README.md                
 
 ---
 
