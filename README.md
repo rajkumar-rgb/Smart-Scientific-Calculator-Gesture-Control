@@ -88,12 +88,6 @@ B.Tech CSE (AI & ML)
 
 ---
 
-## Viva / Review Ready Statement
-I have developed and deployed a smart scientific calculator using hand gesture recognition.
-The project uses OpenCV and MediaPipe for real-time hand tracking and is available on GitHub.
-
----
-
 ## Clone Prompt (For Anyone)
 git clone https://github.com/rajkumar-rgb/Smart-Scientific-Calculator-Gesture-Control.git  
 cd Smart-Scientific-Calculator-Gesture-Control  
